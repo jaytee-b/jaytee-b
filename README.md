@@ -27,7 +27,7 @@ I'm a full stack developer based in Lagos, Nigeria.
 
 
 
-<img src="https://www.pngitem.com/pimgs/m/24-241404_react-native-logo-svg-hd-png-download.png" width="200" height="400">
+<img src="https://www.pngitem.com/pimgs/m/24-241404_react-native-logo-svg-hd-png-download.png" width="100" height="100">
 ![Logo](https://itguru.vn/blog/wp-content/uploads/2020/06/Express-JS-logo.jpg)
 ![Logo](https://th.bing.com/th/id/R.2704804aaf6da27b888e4754cebcd43f?rik=aj8%2bwSFmKwLRkQ&pid=ImgRaw&r=0)
 ![Logo](https://th.bing.com/th/id/OIP.0qThwGUlnULLAz8MTnN9QwHaHa?w=600&h=600&rs=1&pid=ImgDetMain)
